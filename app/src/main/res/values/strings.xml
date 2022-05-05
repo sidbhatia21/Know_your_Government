@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Know your Government</string>
+    <string name="about">about</string>
+    <string name="search">search</string>
+    <string name="civil_advocacy">Civil Advocacy</string>
+    <string name="data_provided_by">Data Provided By</string>
+    <string name="google_civic_information_api"><u>Google Civic Information API</u></string>
+    <string name="_2021_riddhi_damani">© 2021 Riddhi Damani</string>
+    <string name="version_1_0">Version 1.0</string>
+    <string name="title_activity_official">OfficialActivity</string>
+    <string name="official_photo">Official Photo</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="textview">TextView</string>
+    <string name="website">Website:</string>
+    <string name="facebook_icon">facebook icon</string>
+    <string name="email">Email:</string>
+    <string name="todo">TODO</string>
+    <string name="partyLogo">partyLogo</string>
+    <string name="fb">fb</string>
+    <string name="twitter">twitter</string>
+    <string name="youtube">youtube</string>
+    <string name="separator">separator</string>
+    <string name="bck_btn_bye_msg">The Back button was pressed - Bye!</string>
+    <string name="_2022_SiddhantBhatia" />
+</resources>
