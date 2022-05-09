@@ -7,7 +7,7 @@ Uses: Location Services, Internet, Google APIs, Images, Picasso Library, Implici
 App Highlights:
 
 1. This Android app acquires and display an interactive list of political officials that represent the current location (or a specified location) at each level of government.
-2. Android location services will be used to determine the user’s location.
+2. Android Fused location service is used to determine the user’s location.
 3. The Google Civic Information API is used to acquire the government official data (via REST service and JSON results).
 4. Used a different layout for landscape orientation for 2 of the activities in the application Official Activity and Photo Activity.
 5. Clicking on an official’s list entry opens a detailed view of that individual government representative.
